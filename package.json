@@ -32,7 +32,9 @@
     "nodemailer": "^6.9.9",
     "axios": "^1.6.7",
     "zod": "^3.22.4",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "next-pwa": "^5.6.0",
+    "workbox-webpack-plugin": "^7.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.11.19",

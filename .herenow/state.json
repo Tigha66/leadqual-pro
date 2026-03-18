@@ -1,0 +1,10 @@
+{
+  "publishes": {
+    "lunar-ether-q89t": {
+      "siteUrl": "https://lunar-ether-q89t.here.now/",
+      "claimToken": "00fa93d2ee2fc0c280d7229cc266a893195c2275a023f5d9b8a29f04cadd629d",
+      "claimUrl": "https://here.now/claim?slug=lunar-ether-q89t&token=00fa93d2ee2fc0c280d7229cc266a893195c2275a023f5d9b8a29f04cadd629d",
+      "expiresAt": "2026-03-18T22:50:56.029Z"
+    }
+  }
+}
